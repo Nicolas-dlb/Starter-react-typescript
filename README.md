@@ -1,14 +1,3 @@
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-<!-- [![Product Name Screen Shot][product-screenshot]]-->
-<p align="center" >
-<img src="src/assets/pictures/product-screenshot.png" width="850px"/>
-</p>
-
-Bookmarks management web application
-
 ### Built With
 
 - React
