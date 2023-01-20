@@ -12,7 +12,7 @@ Object {
           data-testid="header"
         >
           <h1>
-            Klaxoon
+            Starter-React
           </h1>
         </header>
         <div
@@ -32,10 +32,6 @@ Object {
             Add
           </button>
         </div>
-        <div
-          class="bookmarks"
-          data-testid="bookmarksWrapper"
-        />
       </div>
     </div>
   </body>,
@@ -47,7 +43,7 @@ Object {
         data-testid="header"
       >
         <h1>
-          Klaxoon
+          Starter-React
         </h1>
       </header>
       <div
@@ -67,10 +63,6 @@ Object {
           Add
         </button>
       </div>
-      <div
-        class="bookmarks"
-        data-testid="bookmarksWrapper"
-      />
     </div>
   </div>,
   "debug": [Function],
