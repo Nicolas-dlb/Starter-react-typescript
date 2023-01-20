@@ -7,63 +7,13 @@ Object {
     <div>
       <div
         class="app"
-      >
-        <header
-          data-testid="header"
-        >
-          <h1>
-            Starter-React
-          </h1>
-        </header>
-        <div
-          class="form"
-          data-testid="form"
-        >
-          <input
-            aria-label="input"
-            data-testid="input"
-            id="input"
-            tabindex="0"
-            type="text"
-          />
-          <button
-            type="button"
-          >
-            Add
-          </button>
-        </div>
-      </div>
+      />
     </div>
   </body>,
   "container": <div>
     <div
       class="app"
-    >
-      <header
-        data-testid="header"
-      >
-        <h1>
-          Starter-React
-        </h1>
-      </header>
-      <div
-        class="form"
-        data-testid="form"
-      >
-        <input
-          aria-label="input"
-          data-testid="input"
-          id="input"
-          tabindex="0"
-          type="text"
-        />
-        <button
-          type="button"
-        >
-          Add
-        </button>
-      </div>
-    </div>
+    />
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

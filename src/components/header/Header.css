@@ -1,13 +1,5 @@
 header {
-  background-color: #282c34;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-header h1 {
-  pointer-events: none;
-  font-family: "Allan";
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
